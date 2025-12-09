@@ -1,0 +1,14 @@
+{
+  "name": "cs601-final-project",
+  "version": "1.0.0",
+  "description": "Portfolio Project",
+  "scripts": {
+    "start": "cd portfolio && npm start",
+    "build": "cd portfolio && npm run build",
+    "test": "cd portfolio && npm test",
+    "install-portfolio": "cd portfolio && npm install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
